@@ -1,0 +1,23 @@
+---
+layout:     post
+comments:	true
+title:      "Lucy"
+subtitle:   "Love story with automation"
+date:       2016-02-02 03:35:09
+author:     "Eslam Maged"
+header-img:	"img/lucy/lucy.png"
+description:	"Love story with automation"
+img:	"https://github.com/Eslamunto/eslamunto.github.io/blob/master/img/lucy/lucy.png"
+---
+
+<p>It was a beginning of a true love story! Around 5 month ago, I had a task at <a href="http://www.zoobe.com/" target="_blank">Zoobe</a> to write an internal bash script that should automate the generation of some SQL statments, place some files in the correct directories on the servers and generate the correct add and undo commands for our version control system. That was the first time when I got very close to automatic a task!</p>
+
+<p>Later on, last December, I was asked by <a href="https://twitter.com/smonicats" target="_blank">Monica</a> to create a bot that should help her with the smoothie and salad events at Zoobe. Every Tuesday, we had to share a Salad for Lunch and on Wednesdays we all shared a smoothie for breakfast. However, we had to pay a little fee for registration on Monday. The problem is that, people always forget to pay Monica the money on Mondays. Thus, we thought of making a slack bot that would spam our team members to remind them to pay for the Salad since we depend heavily on Slack for internal communcation.</p>
+
+<p>That's when Lucy was born. A not so smart bot -yet- which is capable of helping Monica with reminding the Zoobians of our internal events. Later on, I came across an <a href="https://medium.com/optima-blog/the-doorman-eea38815cc4f#.cuoak1js3" target="_blank">awesome blog post</a> in which some fellow friends used to open the door within slack. That's when I questioned myself, why not extend Zoobe to open the door for us! And we did it! Now, we are able to automate the door opening process which saved Marina, our HR manager and the closest one to the door intercom, two hours of work every day where she has to move from her desk and run to the intercom to open the door!</p>
+
+<p>Here is a <a href="https://youtu.be/McxabhtKhoI" target="_blank">video</a> showing a demo. If you are interested to read the full details about the blog post, you can check it here on <a href="http://www.zoobe.com/blog/when-you-are-in-tech-you-create-lucy-the-bot-to-open-the-office-door" target="_blank">Zoobe Blog</a> :-)</p>
+
+
+
+<div id="disqus_thread"></div>

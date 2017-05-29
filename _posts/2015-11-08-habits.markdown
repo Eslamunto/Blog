@@ -1,0 +1,31 @@
+---
+layout:     post
+comments: true
+title:      "On Habits"
+subtitle:   "Art of developing habits..."
+date:       2015-11-08 06:32:08
+author:     "Eslam Maged"
+header-img: "img/habits.jpg"
+---
+
+<p>I believe that what differs between two human beings is how they make use of their time. We all share 24 hours a day but some are successful while other are not. On the other hand side, we have how this time is used or how it is wasted.</p>
+
+<p>I also believe that the only valid way to do a correct time management is via creating 'Good' Habits and of course getting rid of the bad ones. By habits I mean every single action that we do or make without thinking how or why we are doing it. We are just doing it because somehow we got programmed to do it this way.</p>
+
+<p> Then comes the most important part, and this is 'programming' humans to do some habits. I also think that -so far- the only way to program a human being is by challenging him/her and evaluating his/her performance for a certain amount of time. This I call the art of creating habits. And I absolutely believe that this is the most valuable skill a human being can have; <i>the art of developing habits.</i></p>
+
+<p>Challenges are a set of actions that should be taken based on the habit that is intended to be enhanced/created or simply taken out. A challenge consist of FOUR different levels.
+<ol>
+	<li>Level One is doing this habit for 24 hours</li>
+	<li>Level Two is doing this habit for 3 consecutive days</li>
+	<li>Level Three is doing this habit for a consecutive month</li>
+	<li>Level Four is doing this habit for a consecutive year</li>
+</ol>
+
+Once a habit reaches level four, we can really call that a habit has been successfully created. I think of you did something for a year, it becomes a built in function inside you.
+</p>
+
+<p>This will be an ongoing post where I will be listing and keeping track of the habits being created and how I am being on progress with that.</p>
+
+
+<div id="disqus_thread"></div>
